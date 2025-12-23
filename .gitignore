@@ -1,0 +1,16 @@
+# Java (Maven/Gradle)
+target/
+*.class
+.mvn/
+bin/
+
+# IDE (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.vscode/
+.settings/
+.project/
+
+# Frontend
+node_modules/
+.DS_Store
